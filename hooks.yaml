@@ -1,6 +1,6 @@
 -   id: jira-integration
     name: Jira Ticket Reference Integration
     description: This hook injects ticket references as per Jira in the commit message.
-    entry: jira-int
+    entry: jira-int.rb
     language: ruby
     files: \.(js|rb|md|py|sh|txt|yaml|yml)$

@@ -1,3 +1,5 @@
+#!/Users/gmikeska/.rvm/rubies/ruby-2.1.5/bin/ruby
+#
 # This hook script injects ticket references as per Jira in the commit
 # message. The hook expects the branch to be formated like so
 # type_of_branch/####-description. ### being the reference ticket number.
